@@ -1,1 +1,1 @@
-# lighthouse-ci-sandbox
+Study [Performance Testing using Lighthouse CI Action - QAInsights](https://qainsights.com/performance-testing-using-lighthouse-ci-action/).
